@@ -1,0 +1,14 @@
+<html>
+<pre style='font-size:11px'>
+Hi ${PERSON_NAME},
+Please Find Below IME Framework Report
+Product : <strong>${PRODUCT_NAME}</strong>
+
+Locale : <strong>${LOCALE}</strong>
+
+Workflow File : <strong>${WORKFLOW_NAME}</strong>
+
+Thanks & Regards
+IME Automation
+</pre>
+</html>

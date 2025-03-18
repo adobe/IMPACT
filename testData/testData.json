@@ -1,0 +1,49 @@
+{
+    "ja_JP":
+    {
+    "asahi":["あさひ","朝日"],
+    "gakkou":["がっこう","学校","学校側"],
+    "shinbun":["しんぶん","新聞"],
+    "shi":["時","市"],
+    "ji":"じ",
+    "du":"づ",
+    "di":"ぢ",
+    "pa":"ぱ",
+    "ga":"が",
+    "konotekisutowosakujosuru":"このてきすとをさくじょする"
+    },
+    "ko_KR":
+    {
+        "gakkou":"ㅎ마ㅏㅐㅕ",
+        "shinbun":"노ㅑㅜㅠ",
+        "rkatkgkqslek.":"감사합니다.",
+        "wkf wlsoskdy?":"잘 지내나요?",
+        "akssktj qksrkdnjdy!":"만나서 반가워요!",
+        "eogksalsrnrrhk qmfkwlfdml 16rkd wjsdl duffuTek.":"대한민국과 브라질의 16강 전이 열렸다.",
+        "Shift Q":"ㅃ",
+        "Shift W":"ㅉ",
+        "Shift E":"ㄸ",
+        "Shift R":"ㄲ",
+        "Shift T":"ㅆ",
+        "Shift O":"ㅒ"
+    },
+    "zh_CN":{
+        "xian":"西安",
+        "xi'an":"西安",
+        "jie":"届",
+        "huan":"换",
+        "nv":"女",
+        "nu":"怒",
+        "diannao":"电脑"
+    },
+    "zh_TW":{
+        "tyhc":"廿卜竹金",
+        "wd":"田木",
+        "ci":"金戈",
+        "smr":"尸一口",
+        "tzhc":"廿重竹金",
+        "tzhz":"廿重竹重"
+    }
+
+
+}

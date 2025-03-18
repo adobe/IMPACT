@@ -1,0 +1,13 @@
+<html>
+<pre style='font-size:11px'>
+Hi ${PERSON_NAME},
+Sorry ! It Seems Input source to <strong>${LOCALE}</strong> is not added, Kindly add the Input Source
+Product : <strong>${PRODUCT_NAME}</strong>
+
+Locale : <strong>${LOCALE}</strong>
+
+
+Thanks & Regards
+IME Automation
+</pre>
+</html>

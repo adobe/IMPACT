@@ -1,0 +1,10 @@
+<html>
+<pre style='font-size:11px'>
+Hi ${PERSON_NAME},
+Please Find Below IME Automation String Report 
+Product : <strong>${PRODUCT_NAME}</strong>
+Locale : <strong>${LOCALE}</strong>
+Thanks & Regards
+IME Automation
+</pre>
+</html>

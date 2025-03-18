@@ -1,0 +1,13 @@
+<html>
+<pre style='font-size:11px'>
+Hi ${PERSON_NAME},
+It Seems like System goes in Sleep Mode or Display is Off while executing the IME Testcase of <strong>${LOCALE}</strong>, Please keep the system in running state
+Product : <strong>${PRODUCT_NAME}</strong>
+
+Locale : <strong>${LOCALE}</strong>
+
+
+Thanks & Regards
+IME Automation
+</pre>
+</html>
